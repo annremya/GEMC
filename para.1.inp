@@ -1,0 +1,22 @@
+128		npart1
+128		npart2
+0.2		rho1
+0.4		rho2
+0.1		lambda
+1.0		temp
+1.0		pressure
+1.		epsilon
+0.1		drmax1
+0.1		drmax2
+0.1		dvmax
+100000		eqcycle
+100000		procycle
+0		runcontinue
+1		initial
+0		runrestart
+2000		eqframes
+2000		proframes
+1		start1
+1 		start2
+0		scalefact
+
